@@ -1,0 +1,11 @@
+.main {
+    text-align: center;
+    width: 100%;
+}
+
+.main h1{
+    text-decoration: underline;
+}
+.main img {
+    border-radius: 15px;
+}
